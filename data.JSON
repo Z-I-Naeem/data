@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "63670c1c703a1eab1b8a5622",
+    "id": 0,
+    "price": 1453,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJD4BmWb-Ia2zn3DHTTaQsWCxxaS_6MsHVg&usqp=CAU",
+    "name": "Conway"
+  },
+  {
+    "_id": "63670c1cd4335fadbf286ae0",
+    "id": 1,
+    "price": 1742,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJD4BmWb-Ia2zn3DHTTaQsWCxxaS_6MsHVg&usqp=CAU",
+    "name": "Holloway"
+  },
+  {
+    "_id": "63670c1c129d51a3c158adbf",
+    "id": 2,
+    "price": 1746,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJD4BmWb-Ia2zn3DHTTaQsWCxxaS_6MsHVg&usqp=CAU",
+    "name": "Tran"
+  },
+  {
+    "_id": "63670c1cc77cba92c19b4e31",
+    "id": 3,
+    "price": 2437,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJD4BmWb-Ia2zn3DHTTaQsWCxxaS_6MsHVg&usqp=CAU",
+    "name": "Hudson"
+  },
+  {
+    "_id": "63670c1cf91faf64a77259eb",
+    "id": 4,
+    "price": 3892,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJD4BmWb-Ia2zn3DHTTaQsWCxxaS_6MsHVg&usqp=CAU",
+    "name": "Leon"
+  },
+  {
+    "_id": "63670c1cd99f806408fc95d7",
+    "id": 5,
+    "price": 2897,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJD4BmWb-Ia2zn3DHTTaQsWCxxaS_6MsHVg&usqp=CAU",
+    "name": "Burch"
+  }
+]
